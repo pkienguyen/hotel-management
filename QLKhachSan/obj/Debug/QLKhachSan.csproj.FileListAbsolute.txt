@@ -1,0 +1,199 @@
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLKhachSan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanVien.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinCaNhan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\stdole.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.BaoCao.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\stdole.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.BaoCao.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLKhachSan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanVien.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinCaNhan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\LT.NET-Nhom12-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\stdole.dll
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.BaoCao.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLKhachSan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanVien.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinCaNhan.resources
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\vudot\OneDrive\Tài liệu\C#\DACN-Nhom14-IT8\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\stdole.dll
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.BaoCao.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Home_NV.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLKhachSan.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanVien.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinCaNhan.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinKH.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLPhong.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.PhongTrong.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.PhongDaDat.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DSHoaDon.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe.config
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.exe
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\QLKhachSan.pdb
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\stdole.dll
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.AssemblyReference.cache
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.BaoCao.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DangNhap.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.DSHoaDon.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Home_NV.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.PhongDaDat.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.PhongTrong.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Properties.Resources.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLKhachSan.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanVien.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLPhong.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinCaNhan.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.ThongTinKH.resources
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.GenerateResource.cache
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.csproj.CopyComplete
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.exe
+C:\Users\vudot\Downloads\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.pdb
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.Home_QL.resources
+C:\Users\vudot\Videos\DACN\14_XAY DUNG UNG DUNG QUAN LY KHACH SAN BANG WINDOWS FORMS\QLKhachSan\QLKhachSan\obj\Debug\QLKhachSan.QLNhanSu.resources

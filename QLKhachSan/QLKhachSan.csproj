@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{928B97C6-0C63-4A6D-90A2-612ED4C8BB71}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLKhachSan</RootNamespace>
+    <AssemblyName>QLKhachSan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BangThuePhong.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaoCao.Designer.cs">
+      <DependentUpon>BaoCao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChucDanh.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSHoaDon.Designer.cs">
+      <DependentUpon>DSHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HoaDon1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HoaDon.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Home_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_NV.Designer.cs">
+      <DependentUpon>Home_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home_QL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home_QL.Designer.cs">
+      <DependentUpon>Home_QL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhachHang.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LoaiPhong.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs" />
+    <Compile Include="NhanVien.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Phong.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PhongDaDat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhongDaDat.Designer.cs">
+      <DependentUpon>PhongDaDat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhongTrong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhongTrong.Designer.cs">
+      <DependentUpon>PhongTrong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QLKhachSan.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLKhachSan.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLKhachSan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLKhachSan.Designer.cs">
+      <DependentUpon>QLKhachSan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLKhachSan1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLKhachSan1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLKhachSan.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhanSu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNhanSu.Designer.cs">
+      <DependentUpon>QLNhanSu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLNhanVien.Designer.cs">
+      <DependentUpon>QLNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QLPhong.Designer.cs">
+      <DependentUpon>QLPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinCaNhan.Designer.cs">
+      <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinKH.Designer.cs">
+      <DependentUpon>ThongTinKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TinhTrangPhong.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <DependentUpon>QLKhachSan.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BaoCao.resx">
+      <DependentUpon>BaoCao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSHoaDon.resx">
+      <DependentUpon>DSHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HoaDon1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_NV.resx">
+      <DependentUpon>Home_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home_QL.resx">
+      <DependentUpon>Home_QL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhongDaDat.resx">
+      <DependentUpon>PhongDaDat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhongTrong.resx">
+      <DependentUpon>PhongTrong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLKhachSan.resx">
+      <DependentUpon>QLKhachSan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLNhanSu.resx">
+      <DependentUpon>QLNhanSu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLNhanVien.resx">
+      <DependentUpon>QLNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QLPhong.resx">
+      <DependentUpon>QLPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinCaNhan.resx">
+      <DependentUpon>ThongTinCaNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinKH.resx">
+      <DependentUpon>ThongTinKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="QLKhachSan.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>QLKhachSan1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="QLKhachSan.edmx.diagram">
+      <DependentUpon>QLKhachSan.edmx</DependentUpon>
+    </None>
+    <None Include="Resources\Ảnh1.png" />
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QLKhachSan.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QLKhachSan.edmx</DependentUpon>
+      <LastGenOutput>QLKhachSan.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="QLKhachSan.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QLKhachSan.edmx</DependentUpon>
+      <LastGenOutput>QLKhachSan1.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\interior design.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
